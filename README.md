@@ -9,7 +9,9 @@
 
 This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, NeurIPS-2024. [Paper](https://arxiv.org/abs/2406.08377)
 
-![framework](./assets/framework.png)
+<!-- ![framework](./assets/framework.png) -->
+<div align="center"> <img src=./assets/framework.png width = "70%" height = "70%" /> </div>
+
 
 ## About DDR
 
@@ -20,25 +22,32 @@ degradation conditions. Specifically, our approach facilitates flexible and adap
 
 ![framework](./assets/deblur1.png)
 
+
 ## Experimental Results
 
 ### 1. Opinion-unaware BIQA
 
 Performance comparisons of different OU-BIQA models on eight public datasets using SRCC. The top performer on each dataset is marked in **bold**.
 
-<img src="./assets/BIQA1.png" alt="framework" style="zoom: 50%;" />
+<!-- <img src="./assets/BIQA1.png" alt="framework" style="zoom: 50%;" /> -->
+<div align="center"> <img src=./assets/BIQA1.png width = "70%" height = "70%" /> </div>
+
 
 ### 2. Image Deblurring
 
 Quantitative result of image motion deblurring. Combining proposed DDR with reconstruction loss leads to result with less degradation and higher fidelity. 
 
-<img src="./assets/deblur2.png" alt="framework" style="zoom:50%;" />
+<!-- <img src="./assets/deblur2.png" alt="framework" style="zoom:50%;" /> -->
+<div align="center"> <img src=./assets/deblur2.png width = "70%" height = "70%" /> </div>
+
 
 ### 3. Real-world Image Super-resolution
 
 Quantitative result on real-world SISR dataset
 
-<img src="./assets/realsr1.png" alt="framework" style="zoom:50%;" />
+<!-- <img src="./assets/realsr1.png" alt="framework" style="zoom:50%;" /> -->
+<div align="center"> <img src=./assets/realsr1.png width = "70%" height = "70%" /> </div>
+
 
 ## Quick Start
 
