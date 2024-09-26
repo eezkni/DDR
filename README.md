@@ -1,10 +1,11 @@
 ## DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor
 
-**[NeurIPS-2024]** Pytorch implementation of "DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor"
+### The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
+<!-- **[NeurIPS-2024]** Pytorch implementation of "DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor" -->
 
 [Juncheng Wu](https://chtholly17.github.io/)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>2</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>3</sup>, [Yuyin Zhou](https://yuyinzhou.github.io/)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>4</sup>
 
-<sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Peng Cheng Laboratory, <sup>4</sup>City University of Hong Kong
+<sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Pengcheng Laboratory, <sup>4</sup>City University of Hong Kong
 
 This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, NeurIPS-2024. [Paper](https://arxiv.org/abs/2406.08377)
 
@@ -21,19 +22,19 @@ degradation conditions. Specifically, our approach facilitates flexible and adap
 
 ## Experimental Results
 
-### Opinion-unaware BIQA
+### 1. Opinion-unaware BIQA
 
 Performance comparisons of different OU-BIQA models on eight public datasets using SRCC. The top performer on each dataset is marked in **bold**.
 
 <img src="./assets/BIQA1.png" alt="framework" style="zoom: 50%;" />
 
-### Image Deblurring
+### 2. Image Deblurring
 
 Quantitative result of image motion deblurring. Combining proposed DDR with reconstruction loss leads to result with less degradation and higher fidelity. 
 
 <img src="./assets/deblur2.png" alt="framework" style="zoom:50%;" />
 
-### Real-world Image Super-resolution
+### 3. Real-world Image Super-resolution
 
 Quantitative result on real-world SISR dataset
 
