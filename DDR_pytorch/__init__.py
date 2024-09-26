@@ -1,1 +1,1 @@
-from DDR import DDR
+from .DDR import DDR
