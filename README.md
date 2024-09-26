@@ -10,7 +10,7 @@
 This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, NeurIPS-2024. [Paper](https://arxiv.org/abs/2406.08377)
 
 <!-- ![framework](./assets/framework.png) -->
-<div align="center"> <img src=./assets/framework.png width = "70%" height = "70%" /> </div>
+<div align="center"> <img src=./assets/framework.png width = "100%" height = "100%" /> </div>
 
 
 ## About DDR
