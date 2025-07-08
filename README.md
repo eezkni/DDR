@@ -29,7 +29,6 @@ degradation conditions. Specifically, our approach facilitates flexible and adap
 
 Performance comparisons of different OU-BIQA models on eight public datasets using SRCC. The top performer on each dataset is marked in **bold**.
 
-<!-- <img src="./assets/BIQA1.png" alt="framework" style="zoom: 50%;" /> -->
 ![framework](./assets/BIQA1.png)
 
 <!-- <div align="center"> <img src=./assets/BIQA1.png width = "100%" height = "100%" /> </div> -->
@@ -39,16 +38,18 @@ Performance comparisons of different OU-BIQA models on eight public datasets usi
 
 Quantitative result of image motion deblurring. Combining proposed DDR with reconstruction loss leads to result with less degradation and higher fidelity. 
 
-<!-- <img src="./assets/deblur2.png" alt="framework" style="zoom:50%;" /> -->
-<div align="center"> <img src=./assets/deblur2.png width = "100%" height = "100%" /> </div>
+![framework](./assets/deblur2.png)
+
+<!-- <div align="center"> <img src=./assets/deblur2.png width = "100%" height = "100%" /> </div> -->
 
 
 ### 3. Real-world Image Super-resolution
 
 Quantitative result on real-world SISR dataset
 
-<!-- <img src="./assets/realsr1.png" alt="framework" style="zoom:50%;" /> -->
-<div align="center"> <img src=./assets/realsr1.png width = "100%" height = "100%" /> </div>
+![framework](./assets/realsr1.png)
+
+<!-- <div align="center"> <img src=./assets/realsr1.png width = "100%" height = "100%" /> </div> -->
 
 
 ## Quick Start
