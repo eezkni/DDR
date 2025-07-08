@@ -46,7 +46,7 @@ Quantitative result of image motion deblurring. Combining proposed DDR with reco
 Quantitative result on real-world SISR dataset
 
 <!-- <img src="./assets/realsr1.png" alt="framework" style="zoom:50%;" /> -->
-<div align="center"> <img src=./assets/realsr1.png width = "70%" height = "70%" /> </div>
+<div align="center"> <img src=./assets/realsr1.png width = "70%" height = "100%" /> </div>
 
 
 ## Quick Start
