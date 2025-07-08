@@ -38,7 +38,7 @@ Performance comparisons of different OU-BIQA models on eight public datasets usi
 Quantitative result of image motion deblurring. Combining proposed DDR with reconstruction loss leads to result with less degradation and higher fidelity. 
 
 <!-- <img src="./assets/deblur2.png" alt="framework" style="zoom:50%;" /> -->
-<div align="center"> <img src=./assets/deblur2.png width = "80%" height = "80%" /> </div>
+<!-- <div align="center"> <img src=./assets/deblur2.png width = "80%" height = "80%" /> </div> -->
 
 
 ### 3. Real-world Image Super-resolution
@@ -46,7 +46,7 @@ Quantitative result of image motion deblurring. Combining proposed DDR with reco
 Quantitative result on real-world SISR dataset
 
 <!-- <img src="./assets/realsr1.png" alt="framework" style="zoom:50%;" /> -->
-<div align="center"> <img src=./assets/realsr1.png width = "70%" height = "70%" /> </div>
+<!-- <div align="center"> <img src=./assets/realsr1.png width = "70%" height = "70%" /> </div> -->
 
 
 ## Quick Start
