@@ -30,7 +30,9 @@ degradation conditions. Specifically, our approach facilitates flexible and adap
 Performance comparisons of different OU-BIQA models on eight public datasets using SRCC. The top performer on each dataset is marked in **bold**.
 
 <!-- <img src="./assets/BIQA1.png" alt="framework" style="zoom: 50%;" /> -->
-<div align="center"> <img src=./assets/BIQA1.png width = "100%" height = "100%" /> </div>
+![framework](./assets/BIQA1.png)
+
+<!-- <div align="center"> <img src=./assets/BIQA1.png width = "100%" height = "100%" /> </div> -->
 
 
 ### 2. Image Deblurring
