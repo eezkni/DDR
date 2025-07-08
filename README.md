@@ -49,7 +49,7 @@ Quantitative result on real-world SISR dataset
 
 ![framework](./assets/realsr1.png)
 
-<!-- <div align="center"> <img src=./assets/realsr1.png width = "100%" height = "100%" /> </div> -->
+<div align="center"> <img src=./assets/realsr1.png width = "80%" height = "100%" /> </div>
 
 
 ## Quick Start
