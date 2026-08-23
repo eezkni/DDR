@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-[Juncheng Wu](https://chtholly17.github.io/)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=en)<sup>2</sup>, [Wenhan Yang](https://scholar.google.com/citations?user=S8nAnakAAAAJ&hl=en)<sup>3</sup>, [Yuyin Zhou](https://scholar.google.com/citations?user=eiqVLC0AAAAJ&hl=en)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>4</sup>
+[Juncheng Wu](https://scholar.google.com/citations?user=RSn2gykAAAAJ&hl=en)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=en)<sup>2</sup>, [Wenhan Yang](https://scholar.google.com/citations?user=S8nAnakAAAAJ&hl=en)<sup>3</sup>, [Yuyin Zhou](https://scholar.google.com/citations?user=eiqVLC0AAAAJ&hl=en)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=en)<sup>4</sup>
 
 <sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Pengcheng Laboratory, <sup>4</sup>City University of Hong Kong
 
