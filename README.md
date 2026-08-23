@@ -1,3 +1,17 @@
+<div align="center">
+  <h1>DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor</h1>
+</div>
+
+<h4 align="center"> 
+
+[Juncheng Wu](https://chtholly17.github.io/)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>2</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>3</sup>, [Yuyin Zhou](https://yuyinzhou.github.io/)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>4</sup>
+
+<sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Pengcheng Laboratory, <sup>4</sup>City University of Hong Kong
+
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
+</h4>
+
+
 ## DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor
 
 #### The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
@@ -9,9 +23,9 @@
 
 This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, NeurIPS-2024. [Paper](https://arxiv.org/abs/2406.08377)
 
-<!-- ![framework](./assets/framework.png) -->
+![Teaser](./assets/framework.png)
 <!-- <div align="center"> <img src=./assets/framework.png width = "100%" height = "100%" /> </div> -->
-<div align="center"> <img src=./assets/framework.png width = "800" /> </div>
+<!-- <div align="center"> <img src=./assets/framework.png width = "800" /> </div> -->
 
 
 ## About DDR
