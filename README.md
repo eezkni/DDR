@@ -89,7 +89,9 @@ If you find our work useful, please cite it as
 @article{wu2024ddr,
   title={DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor},
   author={Wu, Juncheng and Ni, Zhangkai and Wang, Hanli and Yang, Wenhan and Zhou, Yuyin and Wang, Shiqi},
-  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={61040--61064},
   year={2024}
 }
 ```
