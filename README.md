@@ -19,9 +19,10 @@ Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
 
 <!-- [Juncheng Wu](https://chtholly17.github.io/)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm)<sup>2</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>3</sup>, [Yuyin Zhou](https://yuyinzhou.github.io/)<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>4</sup> -->
 
-<!-- <sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Pengcheng Laboratory, <sup>4</sup>City University of Hong Kong --> -->
+<!-- <sup>1</sup>UC Santa Cruz, <sup>2</sup>Tongji University, <sup>3</sup>Pengcheng Laboratory, <sup>4</sup>City University of Hong Kong -->
 
-This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, NeurIPS-2024. [Paper](https://arxiv.org/abs/2406.08377)
+This repository provides the official PyTorch implementation for the paper “DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor”, Advances in Neural Information Processing Systems (NeurIPS), vol. 37, pp. 61040-61064, 2024. [Paper-official](https://proceedings.neurips.cc/paper_files/paper/2024/file/70681152122b1f4c5fa6b6ba823eea9a-Paper-Conference.pdf) | [Paper-arXiv](https://arxiv.org/abs/2406.08377)
+
 
 ![Teaser](./assets/framework.png)
 <!-- <div align="center"> <img src=./assets/framework.png width = "100%" height = "100%" /> </div> -->
